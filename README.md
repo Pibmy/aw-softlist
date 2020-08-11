@@ -3,19 +3,22 @@
 
 List of usefull soft / tools to use.
 
-Some awesome stuff here : https://github.com/sindresorhus/awesome
+Usefull links : 
+- Awesome stuff : https://github.com/sindresorhus/awesome
+- Alternatives to a software : https://alternativeto.net/
+
 
 ## Content
 
 - [Tools](#tools)
   - [File Cleaning](#file-cleaning)
   - [Security](#security)
-  - [Others](#others)
+  - [Others](#tl-others)
 - [Development](#development)
   - [IDE](#ide)
   - [Text Editors](#text-editors)
   - [DB clients](#db-clients)
-  - [Others](#others)
+  - [Others](#dev-others)
 - [Hardware](#hardware)
 - [Multimedia](#multimedia)
   - [Players](#players)
@@ -23,6 +26,7 @@ Some awesome stuff here : https://github.com/sindresorhus/awesome
   - [Audio](#audio)
   - [3D tools](#3D-tools)
   - [Graphic editors](#graphic-editors)
+  - [Video editors](#video-editors)
 - [Games](#games)
   - [Minecraft](#minecraft)
 
@@ -44,7 +48,7 @@ Some awesome stuff here : https://github.com/sindresorhus/awesome
 - [Wireshark](https://www.wireshark.org/) - Wireshark is the world’s foremost and widely-used network protocol analyzer.
 - [Nmap](https://nmap.org/) - Nmap is a free and open source utility for network discovery and security auditing.
 
-### Others
+### Tl others
 
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly.
 - [FreeFileSync](https://freefilesync.org/) - FreeFileSync is a folder comparison and synchronization software.
@@ -63,6 +67,7 @@ Some awesome stuff here : https://github.com/sindresorhus/awesome
 - [VisualStudioCode](https://code.visualstudio.com/)
 - [Eclipse](https://www.eclipse.org/downloads/)
 - [AndroidStudio](https://developer.android.com/studio/)
+- [Unity](https://unity3d.com/fr/get-unity/download)
 
 
 ### Text editors
@@ -81,7 +86,7 @@ Some awesome stuff here : https://github.com/sindresorhus/awesome
 - [Protege](https://protege.stanford.edu/) - A free, open-source ontology editor
 
 
-### Others
+### Dev others
 
 - [ResourceHacker](http://angusj.com/resourcehacker/) - A resource compiler and a decompiler.
 
@@ -121,6 +126,7 @@ Some awesome stuff here : https://github.com/sindresorhus/awesome
 ### 3D Tools
 
 - [MakeHuman](http://www.makehumancommunity.org/) - Open source tool for making 3D character
+- [Wings3D](http://www.wings3d.com/) - An advanced subdivision modeler that is both powerful and easy to use.
 - [Blender](https://www.blender.org/) - Open source 3D creation. Free to use for any purpose, forever.
 
 
@@ -129,6 +135,14 @@ Some awesome stuff here : https://github.com/sindresorhus/awesome
 - [Irfanview](https://www.irfanview.com/) - Fast and compact graphic viewer.
 - [Paint.net](https://www.getpaint.net/index.html) - Paint.NET is image and photo editing software for Windows
 - [Krita](https://krita.org/fr/) - Krita is a professional FREE and open source painting program. 
+
+
+### Video editors
+
+- [ShotCut](http://www.shotcut.org/)
+- [Natron](https://natrongithub.github.io/)
+- [PremierePro](https://www.adobe.com/fr/products/premiere.html)
+- [AfterEffects](https://www.adobe.com/products/aftereffects.html#)
 
 
 ## Games
